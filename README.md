@@ -1,7 +1,7 @@
 # Applied Econometrics with Python
 Repository for the codes contained in the Applied Econometrics course with Python Semester 2.
 
-The purpose of the course is to introduce econometrics to students and the use of Python to perform analysis on data using the statistical methods explained in the lectures and seminars.
+The purpose of the course is to introduce econometrics to students and the use of Python to perform data analysis using the statistical methods presented during the lectures and seminars.
 
 The  outline of the course is
 
